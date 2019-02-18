@@ -1,5 +1,5 @@
 # C/C++
-![**DevC++ Download Web Site:**](https://www.bloodshed.net/devcpp.html) <br />
+![DevC++ Download Web Site:](https://www.bloodshed.net/devcpp.html) <br />
 # Youtube Link
 **sian5an Kanal:**(https://www.youtube.com/user/sina5an)
 **Yazılım Bilimi Kanal:**(https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ)
