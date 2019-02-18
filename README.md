@@ -12,3 +12,9 @@ Bilgisayar Kavaramları Kanal: https://www.youtube.com/channel/UCkkgrhDCJheXQNIF
 C++ Komut: Cmd üzerinde derlemek için komut = g++ -o 01 01.cpp
 
 C Komut: Cmd üzerinde derlemek için komut = gcc -o 01 01.c
+
+C++ Komut: Cmd Üzerinde Birden fazla cpp dosyası derlemek için komut = g++ -c Main.cpp Test.cpp
+
+C++ Komut: Birleştirmik için komut = g++ Main.o Test.o -o main
+
+
